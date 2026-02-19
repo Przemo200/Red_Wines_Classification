@@ -1,7 +1,6 @@
 # Red wines quality classification with XGBoost and SHAP
 
-Predicting whether a red wine is **good** or **bad** based on physicochemical tests.  
-This project demonstrates an end-to-end ML workflow - **EDA -> feature engineering -> model training and tuning -> evaluation -> SHAP explainability**
+Predicting whether a red wine is **good** or **bad** based on physicochemical tests. This project demonstrates an end-to-end ML workflow - **EDA -> feature engineering -> model training and tuning -> evaluation -> SHAP explainability**
 
 ---
 
