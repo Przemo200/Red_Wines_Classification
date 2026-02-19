@@ -135,35 +135,12 @@ Example test results from one run:
 - **Accuracy:** ~0.761  
 - **Macro F1-score:** ~0.760  
 
-<div align="center">
+Confusion matrix (bad/good):
 
-<b>Confusion matrix (bad/good)</b>
-
-<br><br>
-
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th>Pred: Bad</th>
-      <th>Pred: Good</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Real: Bad</b></td>
-      <td align="center">97</td>
-      <td align="center">31</td>
-    </tr>
-    <tr>
-      <td><b>Real: Good</b></td>
-      <td align="center">34</td>
-      <td align="center">110</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+|              | Pred: bad | Pred: good |
+|--------------|-----------|------------|
+| **Real: bad**  | 97        | 31         |
+| **Real: good** | 34        | 110        |
 
 Interpretation:
 - The model performs reasonably well on both classes
