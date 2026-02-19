@@ -30,7 +30,7 @@ Predicting whether a red wine is **good** or **bad** based on physicochemical te
 <br>
 
 <p align="center">
-  <img src="images/qualityProp_.png" width="900" alt="Quality proportion">
+  <img src="images/qualityProp_.png" width="700" alt="Quality proportion">
 </p>
 
 <br>
@@ -48,7 +48,7 @@ Predicting whether a red wine is **good** or **bad** based on physicochemical te
 <br>
 
 <p align="center">
-  <img src="images/confM_.png" width="900" alt="Confusion matrix">
+  <img src="images/confM_.png" width="700" alt="Confusion matrix">
 </p>
 
 <br>
