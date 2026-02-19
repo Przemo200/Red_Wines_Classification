@@ -6,17 +6,63 @@ This project demonstrates an end-to-end ML workflow - **EDA -> feature engineeri
 ---
 
 ## Dashboard - key figures and plots
+<p align="center">
+  <img src="images/dist1_.png" width="900" alt="Distributions 1">
+</p>
 
-![Distributions1](images/dist1_.png)
-![Distributions2](images/dist2_.png)
-![Distributions3](images/dist3_.png)
-![Distributions4](images/dist4_.png)
-![QualityProp](images/qualityProp_.png)
-![Scatter](images/scatter_.png)
-![CorrHeat](images/corrHeat_.png)
-![ConfM](images/confM_.png)
-![Shap1](images/shap1_.png)
-![Shap2](images/shap2_.png)
+<br>
+
+<p align="center">
+  <img src="images/dist2_.png" width="900" alt="Distributions 2">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/dist3_.png" width="900" alt="Distributions 3">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/dist4_.png" width="900" alt="Distributions 4">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/qualityProp_.png" width="520" alt="Quality proportion">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/scatter_.png" width="900" alt="Scatter plots">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/corrHeat_.png" width="900" alt="Correlation heatmap">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/confM_.png" width="520" alt="Confusion matrix">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/shap1_.png" width="900" alt="SHAP summary">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/shap2_.png" width="900" alt="SHAP waterfall">
+</p>
 
 ---
 
