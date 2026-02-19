@@ -48,7 +48,7 @@ Predicting whether a red wine is **good** or **bad** based on physicochemical te
 <br>
 
 <p align="center">
-  <img src="images/confM_.png" width="520" alt="Confusion matrix">
+  <img src="images/confM_.png" width="900" alt="Confusion matrix">
 </p>
 
 <br>
